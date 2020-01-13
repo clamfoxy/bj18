@@ -1,1 +1,2 @@
 python("HelloWorld")
+python("Hello")
